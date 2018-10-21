@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Opg4_22 {
     public static void main(String[] args) {
 
+
         String a ="";
         String b ="";
         Scanner input=new Scanner(System.in);
